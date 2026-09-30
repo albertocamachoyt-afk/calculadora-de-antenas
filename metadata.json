@@ -1,0 +1,6 @@
+{
+  "name": "Calculador de Enlaces RF y Línea de Vista",
+  "description": "Calcula distancias GPS, compatibilidad de antenas WiFi/PTP, zona de Fresnel, perfil de elevación y línea de vista con Google Maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
